@@ -1,3 +1,8 @@
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm aso</h1>
+  <img alt="my stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=aso-off&show_icons=true&theme=dracula"/>
+  <img alt="top langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&theme=dracula"/>
+
+## INFO
 ```ruby
 CONST aso = {
   pronouns: "He" | "him",
@@ -9,7 +14,3 @@ CONST aso = {
   goal: "unknown"
 }
 ```
-
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm aso</h1>
-  <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aso-off&show_icons=true&theme=dracula"/>
-  <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&theme=dracula"/>
