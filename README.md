@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm aso</h1>
-  <img alt="my stats" width="70%" src="https://github-readme-stats.vercel.app/api?username=aso-off&show_icons=true&theme=dracula"/>
-  <img alt="top langs" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&theme=dracula"/>
+  <img alt="my stats" width="66%" src="https://github-readme-stats.vercel.app/api?username=aso-off&show_icons=true&theme=dracula"/>
+  <img alt="top langs" width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&theme=dracula"/>
 
 ## INFO
 ```ruby
