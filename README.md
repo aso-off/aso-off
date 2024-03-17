@@ -17,6 +17,6 @@ CONST aso =
 ```
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/skanda/badges/large)
+![codewars](https://www.codewars.com/users/aso/badges/large)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aso-off)
