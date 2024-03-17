@@ -4,7 +4,8 @@
 
 ## INFO
 ```ruby
-CONST aso = {
+CONST aso =
+{
   pronouns: "He" | "him",
   use-tool: ["VScode", "IntelliJIDEA"],
   backend: ["Java", "Python"],
