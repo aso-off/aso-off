@@ -19,33 +19,4 @@ CONST aso =
 
 ![codewars](https://www.codewars.com/users/skanda/badges/large)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=aso-off&label=Visitors&labelColor=%23697689&countColor=%23555555&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=aso-off&label=Profile%20views&countColor=%23697689&style=flat-square)
