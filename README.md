@@ -14,3 +14,9 @@ CONST aso = {
   goal: "unknown"
 }
 ```
+
+<tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+      </td>
+</tr>
