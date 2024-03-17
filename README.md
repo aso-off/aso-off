@@ -15,7 +15,7 @@ CONST aso =
   goal: "unknown"
 }
 ```
-## 💻 Codewars:
+## CODEWARS:
 
 ![codewars](https://www.codewars.com/users/skanda/badges/large)
 
