@@ -17,6 +17,6 @@ CONST aso =
 ```
 ## CODEWARS:
 
-![codewars](https://www.codewars.com/users/skanda/badges/large)
+![codewars](https://www.codewars.com/users/aso_off/badges/large)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=aso-off&label=Profile%20views&countColor=%23f47373&style=flat)
