@@ -14,9 +14,3 @@ CONST aso = {
   goal: "unknown"
 }
 ```
-
-<tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/aso-off/examples/indepth.mays" alt=""></img></details>
-      </td>
-</tr>
