@@ -4,7 +4,8 @@
   <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&theme=dracula"/>
 </a>
 <a>
-  ```ruby
+  <p>
+     ```ruby
 CONST aso = {
   pronouns: "He" | "him",
   use-tool: ["VScode", "IntelliJIDEA"],
@@ -15,5 +16,6 @@ CONST aso = {
   goal: "unknown"
 }
 ```
+  </p>
 </a>
 
