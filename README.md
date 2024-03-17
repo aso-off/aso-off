@@ -7,10 +7,10 @@
 CONST aso = {
   pronouns: "He" | "him",
   use-tool: ["VScode", "IntelliJIDEA"],
-  backend: ["Java", "Python", "Flask"],
-  frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "ReactJs", "VUE", "NodeJS"],
+  backend: ["Java", "Python"],
+  frontend: ["HTML", "CSS", "JavaScript", "ReactJs", "VUE"],
   database: ["Oracle", "MySQL"],
-  learning：["C++"],
+  learning：["C++", "TypeScript", "NodeJS"],
   goal: "unknown"
 }
 ```
