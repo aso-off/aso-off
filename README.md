@@ -17,6 +17,6 @@ CONST aso = {
 
 <tr>
         <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+        <img alt="" width="400" src="https://github.com/aso-off/examples/indepth.mays" alt=""></img></details>
       </td>
 </tr>
