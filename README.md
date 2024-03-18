@@ -35,24 +35,3 @@ CONST aso =
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1144337648928952411)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1144337648928952411)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1144337648928952411)](https://dev.discordprofiles.me/openspotify/1144337648928952411)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-**I'm an early 🐤** 
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
-```
-```text
-💬 Languages:
-JavaScript               5 hrs 26 mins       ███████████████░░░░░░░░░░   61.97%
-PHP                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07%
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.3%
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
-XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
-```
