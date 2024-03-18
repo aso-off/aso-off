@@ -1,4 +1,3 @@
-<img align="right" alt="views" src="https://api.visitorbadge.io/api/visitors?path=aso-off&label=Profile%20views&countColor=%23f47373&style=flat"/>
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm aso</h1>
   <img alt="my stats" width="66%" src="https://github-readme-stats.vercel.app/api?username=aso-off&show_icons=true&theme=dracula"/>
   <img alt="top langs" width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&theme=dracula"/>
@@ -26,3 +25,4 @@ CONST aso =
     <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,nodejs,nextjs,mysql" /><br>
 </div>
+<img align="left" alt="views" src="https://api.visitorbadge.io/api/visitors?path=aso-off&label=Profile%20views&countColor=%23f47373&style=flat"/>
