@@ -1,10 +1,8 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
@@ -13,12 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # this action name
-      - uses: aso-off/waka-readme@master # do NOT replace with anything else
+      - uses: aso-off/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### content
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          CODE_LANG: rust
-          TIME_RANGE: all_time
-          
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
