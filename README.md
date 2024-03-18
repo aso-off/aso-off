@@ -39,7 +39,6 @@ CONST aso =
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-`SHOW_COMMIT`       flag can be set to `False` to hide the commit stats
 
 **I'm an early 🐤** 
 ```text
