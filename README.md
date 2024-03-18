@@ -21,19 +21,7 @@ CONST aso =
 
 <!--START_SECTION:waka-->
 ```txt
-From: 09 March 2024 - To: 16 March 2024
-From: 10 March 2024 - To: 17 March 2024
-Total Time: 12 hrs
-Total Time: 5 hrs 38 mins
-Python     11 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.51 %
-Markdown   7 mins          -------------------------   01.06 %
-HTML       2 mins          -------------------------   00.42 %
-YAML       0 secs          -------------------------   00.01 %
-Python       5 hrs 21 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.96 %
-Astro        10 mins         >------------------------   03.11 %
-HTML         2 mins          -------------------------   00.88 %
-Elixir       1 min           -------------------------   00.57 %
-Bash         0 secs          -------------------------   00.19 %
+
 ```
 
 <!--END_SECTION:waka-->
