@@ -17,13 +17,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
-          SHOW_TITLE: true # optional
-          CODE_LANG: ruby
-          BLOCKS: -> # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 8 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          CODE_LANG: rust
+          TIME_RANGE: all_time
+          
