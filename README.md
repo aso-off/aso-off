@@ -24,6 +24,6 @@ CONST aso =
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,nodejs,nextjs,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,nodejs,nextjs,mysql&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,figma,ps,git&theme=dark" /><br>
 </div>
