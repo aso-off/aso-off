@@ -18,6 +18,13 @@ CONST aso =
   goal: "unknown"
 }
 ```
+
+<!--START_SECTION:waka-->
+```txt
+Other   34 hrs 45 mins  █████████████████████████   100.00 %
+```
+<!--END_SECTION:waka-->
+
 ## Codewars:
 
 ![codewars](https://www.codewars.com/users/aso_off/badges/large)
@@ -29,10 +36,3 @@ CONST aso =
   <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,nodejs,nextjs,mysql&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,git,figma,ps&theme=dark" /><br>
 </div>
-
-
-<!--START_SECTION:waka-->
-```txt
-Other   34 hrs 45 mins  █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
