@@ -5,7 +5,7 @@
   <img alt="my stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=aso-off&show_icons=true&theme=dracula"/>
   <img alt="top langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&theme=dracula"/>
 
-## Info
+## Info:
 ```ruby
 CONST aso =
 {
