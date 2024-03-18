@@ -22,7 +22,6 @@ jobs:
           REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
