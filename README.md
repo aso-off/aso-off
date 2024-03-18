@@ -37,4 +37,7 @@ CONST aso =
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1144337648928952411)](https://dev.discordprofiles.me/openspotify/1144337648928952411)
 
 <!--START_SECTION:waka-->
+```txt
+Other   34 hrs 45 mins  █████████████████████████   100.00 %
+```
 <!--END_SECTION:waka-->
