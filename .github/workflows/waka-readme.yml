@@ -18,7 +18,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
-          CODE_LANG: javascript # optional
+          CODE_LANG: ruby # optional
           TIME_RANGE: last_30_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
