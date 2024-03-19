@@ -22,14 +22,12 @@ CONST aso =
 ```
 <!--START_SECTION:waka-->
 
-```ruby
-From: 17 February 2024 - To: 18 March 2024
-
-Total Time: 34 hrs 40 mins
-
-HTML          20 hrs 47 mins  >>>>>>>>>>>>>>-----------   55.09 %
-CSS           9 hrs 38 mins   >>>>>>-------------------   25.57 %
-Other         3 hrs 3 mins    >>-----------------------   08.13 %
+```txt
+CSS           8 hrs 27 mins   ████████████░░░░░░░░░░░░░   48.56 %
+HTML          5 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.13 %
+JavaScript    2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+JSON          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Git           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
