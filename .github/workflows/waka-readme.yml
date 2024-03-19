@@ -15,12 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          CODE_LANG: "ruby"
-          SHOW_TITLE: "true" # optional
-          SECTION_NAME: "waka" # optional
-          BLOCKS: "->" # optional
-          TIME_RANGE: "last_30_days" # optional
-          LANG_COUNT: "10" # optional
           SHOW_TIME: "true" # optional
           SHOW_TOTAL: "true" # optional
           SHOW_MASKED_TIME: "false" # optional
