@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # idk
-    - cron: '0 */2 * * *'
+    - cron: '0 */3 * * *'
 
 jobs:
   update-readme:
