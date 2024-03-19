@@ -26,7 +26,6 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML TOML # optional
-          SHOW_COMMIT: true # optional
           SHOW_UPDATED_DATE: true # optional
           UPDATED_DATE_FORMAT: "%d/%m/%Y" # optional
           
