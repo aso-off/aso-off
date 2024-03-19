@@ -22,7 +22,7 @@ CONST aso =
 ```
 <!--START_SECTION:waka-->
 
-```ruby
+```javascript
 From: 17 February 2024 - To: 18 March 2024
 
 Total Time: 34 hrs 40 mins
