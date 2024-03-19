@@ -30,3 +30,8 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML TOML # optional
+          SHOW_DAYS_OF_WEEK: false # optional
+          SHOW_OS: false # optional
+          SHOW_LANGUAGE_PER_REPO: false # optional
+          SHOW_SHORT_INFO: false # optional
+          SHOW_TIMEZONE: false # optional
