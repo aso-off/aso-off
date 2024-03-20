@@ -26,7 +26,7 @@ jobs:
           SHOW_SHORT_INFO: "false" # optional
           SHOW_TIMEZONE: "false" # optional
           SHOW_UPDATED_DATE: "true" # optional
-          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M" # optional
+          UPDATED_DATE_FORMAT: "%d/%m/%Y" # optional
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
