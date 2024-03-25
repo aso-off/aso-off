@@ -68,6 +68,6 @@ Android Studio           0 secs              █░░░░░░░░░░�
   <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,git,figma,ps&theme=dark" /><br>
 </div>
 
-## Contact:
+## Contacts:
 
 me@aso-off.social
