@@ -67,3 +67,7 @@ Android Studio           0 secs              █░░░░░░░░░░�
   <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,nodejs,nextjs,mysql&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,git,figma,ps&theme=dark" /><br>
 </div>
+
+## Contact:
+
+me@aso-off.social
