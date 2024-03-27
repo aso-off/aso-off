@@ -3,12 +3,6 @@
 
 <h1 align="center" id="macropower-title">:wave: Hello there, I'm aso</h1>
 
-<p align="center"><img src="https://raw.githubusercontent.com/aso-off/aso-off/main/github-metrics.svg" alt="GitHub Streak" class="stats" /></p>
-<!-- <p align="left"> My top-using languages: </p> -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
-<p align="center">
-
 ## Info:
 ```ruby
 CONST aso =
@@ -65,6 +59,12 @@ Android Studio           0 secs              █░░░░░░░░░░�
   <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,nodejs,nextjs,mysql&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,git,figma,ps&theme=dark" /><br>
 </div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/aso-off/aso-off/main/github-metrics.svg" alt="GitHub Streak" class="stats" /></p>
+<!-- <p align="left"> My top-using languages: </p> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
+<p align="center">
 
 ## Contacts:
 
