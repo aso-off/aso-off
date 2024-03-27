@@ -3,9 +3,7 @@
 
 <h1 align="center" id="macropower-title">:wave: Hello there, I'm aso</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/aso-off/aso-off/main/github-metrics.svg" alt="GitHub Streak" class="stats" /></p>
-<!-- <p align="left"> My top-using languages: </p> -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
+![Metrics](https://metrics.lecoq.io/?template=classic&base.metadata=0&topics=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=16&discussions=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Europe%2FKaliningrad)
 <p align="center">
 
 ## Info:
