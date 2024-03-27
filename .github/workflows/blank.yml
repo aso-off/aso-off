@@ -24,11 +24,11 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          user: yawaflua
+          user: aso-off
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
-          config_timezone: Europe/Moscow
+          config_timezone: Europe
           config_twemoji: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
