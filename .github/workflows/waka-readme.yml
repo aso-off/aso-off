@@ -31,5 +31,5 @@ jobs:
           SHOW_LINES_OF_CODE: "False" # optional
           SHOW_LOC_CHART: "False" # optional
           LOCALE: "en" # optional
-          SYMBOL_VERSION: "3" # optional
-          
+          BLOCKS: "->" # optional
+          CODE_LANG: "rust" # optional
