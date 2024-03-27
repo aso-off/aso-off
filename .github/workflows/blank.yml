@@ -21,9 +21,10 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          user: aso-off
           template: classic
           base: header, activity, community, repositories
           config_timezone: Europe/Kaliningrad
