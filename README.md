@@ -58,11 +58,6 @@ Android Studio           0 secs              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-## Codewars:
-
-![codewars](https://www.codewars.com/users/aso_off/badges/large)
-
 <h2 align="left">Languages-Frameworks-Tools: </h2>
 <br/>
 <div align="center">
