@@ -52,9 +52,3 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
           plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
-          name: LeetCode
-          uses: lowlighter/metrics@latest
-          with:
-          filename: metrics.plugin.leetcode.svg
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
