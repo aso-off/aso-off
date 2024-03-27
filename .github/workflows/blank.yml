@@ -51,4 +51,3 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-          plugin_fortune: yes
