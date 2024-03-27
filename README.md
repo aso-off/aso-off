@@ -2,8 +2,12 @@
 <br><br>
 
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm aso</h1>
-  <img alt="my stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=aso-off&show_icons=true&theme=dracula"/>
-  <img alt="top langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&theme=dracula"/>
+
+<p align="center"><img src="https://raw.githubusercontent.com/aso-off/aso-off/main/github-metrics.svg" alt="GitHub Streak" class="stats" /></p>
+<!-- <p align="left"> My top-using languages: </p> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
+<p align="center">
 
 ## Info:
 ```ruby
