@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm aso</h1>
+<h1 align="center" id="macropower-title">:wave: Hello there! I'm aso</h1>
   <img alt="my stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=aso-off&show_icons=true&theme=dracula"/>
   <img alt="top langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&theme=dracula"/>
 
