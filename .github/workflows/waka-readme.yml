@@ -25,7 +25,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "false" # optional
           SHOW_SHORT_INFO: "false" # optional
           SHOW_TIMEZONE: "false" # optional
-          SHOW_UPDATED_DATE: "true" # optional
+          SHOW_UPDATED_DATE: "false" # optional
           UPDATED_DATE_FORMAT: "%d/%m/%Y" # optional
           SHOW_PROJECTS: "False" # optional
           SHOW_LINES_OF_CODE: "False" # optional
