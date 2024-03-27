@@ -1,11 +1,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
-
 <h1 align="center" id="macropower-title">:wave: Hello there, I'm aso</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/aso-off/aso-off/main/github-metrics.svg" alt="GitHub Streak" class="stats" /></p>
 <!-- <p align="left"> My top-using languages: </p> -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso-off&layout=compact&bg_color=22272E&text_color=9F9F9F" ></p> -->
+<!-- <p align="center"> <img src="https://raw.githubusercontent.com/aso-off/aso-off/ec90a70a931acd8bec7580956b855049cb2bd953/github-metrics.svg" ></p> -->
 <p align="center">
 
 ## Info:
