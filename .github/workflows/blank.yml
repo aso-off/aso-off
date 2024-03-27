@@ -26,9 +26,8 @@ jobs:
           # Options
           user: aso-off
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_octicon: yes
-          config_timezone: Europe
           config_twemoji: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
