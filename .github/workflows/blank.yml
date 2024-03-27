@@ -26,7 +26,7 @@ jobs:
           # Options
           user: aso-off
           template: classic
-          base: activity, community, repositories
+          base: header, activity, community, repositories
           base_indepth: yes
           base_skip: yes
           config_timezone: Europe/Kaliningrad
