@@ -66,4 +66,5 @@ Android Studio           0 secs              █░░░░░░░░░░�
 
 ## Contacts:
 
-me@aso-off.social
+Mail - me@aso-off.social
+Telegram - @aso_off
