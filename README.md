@@ -23,7 +23,7 @@ CONST aso =
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1163-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1124-blue)
 
 **I'm a Night 🦉** 
 
@@ -39,11 +39,10 @@ CONST aso =
 
 ```text
 💬 Programming Languages: 
-Text                     16 mins             █████████████████████████   99.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
