@@ -12,7 +12,7 @@
 CONST aso =
 {
   pronouns: "He" | "him",
-  use-tool: ["Visual_Studio", "JetBrains Family"],
+  use-tool: ["Visual Studio", "JetBrains Family"],
   backend: ["Java", "Python"],
   frontend: ["HTML", "CSS", "JavaScript", "React", "VUE"],
   database: ["MySQL"],
