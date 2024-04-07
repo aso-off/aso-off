@@ -55,7 +55,7 @@ VS Code                  2 mins              ██░░░░░░░░░�
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,nextjs,bootstrap&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,webstorm,pycharm,figma,ps&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,pycharm,figma,ps&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=linux,windows,github,git,discord&theme=dark" /><br>
 </div>
 
