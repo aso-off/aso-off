@@ -21,9 +21,9 @@ CONST aso =
 }
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1310-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1298-blue)
 
 **I'm a Night 🦉** 
 
