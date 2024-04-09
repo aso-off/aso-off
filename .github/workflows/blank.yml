@@ -53,8 +53,6 @@ jobs:
           plugin_achievements_limit: 12
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-
-          plugin_gists: yes
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
