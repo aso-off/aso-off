@@ -53,11 +53,3 @@ jobs:
           plugin_achievements_limit: 12
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-
-          name: aso-off
-          uses: lowlighter/metrics@latest
-          with:
-          filename: metrics.plugin.leetcode.svg
-          base: ""
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
