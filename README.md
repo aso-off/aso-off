@@ -37,10 +37,10 @@ CONST aso =
 
 ```text
 💬 Programming Languages: 
-Python                   34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
