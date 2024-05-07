@@ -1,5 +1,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<br><br>
+<br>
+<div id="header" align="right">
+  <img src="https://komarev.com/ghpvc/?username=aso-off&abbreviated=true" alt=""/>
+</div>
+<br>
 <h1 align="center" id="macropower-title">:wave: Hello there, I'm aso</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/aso-off/aso-off/main/github-metrics.svg" alt="GitHub Streak" class="stats" /></p>
 <!-- <p align="left"> My top-using languages: </p> -->
@@ -58,7 +62,3 @@ No Activity Tracked This Week
 ## Contacts:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/aso_off)
-
-<div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=aso-off&abbreviated=true" alt=""/>
-</div>
