@@ -57,4 +57,8 @@ No Activity Tracked This Week
 
 ## Contacts:
 
-me@aso-off.social
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/aso_off)
+
+<div id="header" align="right">
+  <img src="https://komarev.com/ghpvc/?username=aso-off&abbreviated=true" alt=""/>
+</div>
