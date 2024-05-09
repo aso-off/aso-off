@@ -61,4 +61,4 @@ No Activity Tracked This Week
 
 ## Contacts:
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/aso_off)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/infoaso)
