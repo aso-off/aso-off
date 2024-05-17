@@ -20,7 +20,7 @@ const aso =
   backend: ["Java", "Python"],
   frontend: ["HTML", "CSS", "JavaScript", "React", "Vue"],
   database: ["MySQL"],
-  learning：["C++", "Dart", "TypeScript", "NodeJS", "NextJS"],
+  learning：["C++", "Dart", "TypeScript", "NodeJS", "NextJS"]
 }
 ```
 
