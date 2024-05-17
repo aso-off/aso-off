@@ -12,7 +12,7 @@
 <p align="center">
 
 ## Info:
-```ruby
+```js
 const aso =
 {
   pronouns: "He" | "him",
