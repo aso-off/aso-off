@@ -30,8 +30,8 @@ jobs:
           base_indepth: yes
           base_skip: yes
           config_timezone: Europe/Kaliningrad
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
+          plugin_discussions: no
+          plugin_discussions_categories: no
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
