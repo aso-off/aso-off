@@ -17,15 +17,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TIME: "true" # optional
           SHOW_TOTAL: "true" # optional
-          SHOW_MASKED_TIME: "false" # optional
-          STOP_AT_OTHER: "true" # optional
+          SHOW_MASKED_TIME: "False" # optional
+          STOP_AT_OTHER: "TRUE" # optional
           IGNORED_LANGUAGES: "YAML TOML" # optional
-          SHOW_DAYS_OF_WEEK: "false" # optional
-          SHOW_OS: "false" # optional
-          SHOW_LANGUAGE_PER_REPO: "false" # optional
-          SHOW_SHORT_INFO: "false" # optional
-          SHOW_TIMEZONE: "false" # optional
-          SHOW_UPDATED_DATE: "false" # optional
+          SHOW_DAYS_OF_WEEK: "False" # optional
+          SHOW_OS: "False" # optional
+          SHOW_LANGUAGE_PER_REPO: "False" # optional
+          SHOW_SHORT_INFO: "False" # optional
+          SHOW_TIMEZONE: "False" # optional
+          SHOW_UPDATED_DATE: "False" # optional
           UPDATED_DATE_FORMAT: "%d/%m/%Y" # optional
           SHOW_PROJECTS: "False" # optional
           SHOW_LINES_OF_CODE: "False" # optional
