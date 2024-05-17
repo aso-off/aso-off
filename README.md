@@ -18,10 +18,9 @@ CONST aso =
   pronouns: "He" | "him",
   use-tool: ["Visual Studio", "JetBrains Family"],
   backend: ["Java", "Python"],
-  frontend: ["HTML", "CSS", "JavaScript", "React", "VUE"],
+  frontend: ["HTML", "CSS", "JavaScript", "React", "Vue"],
   database: ["MySQL"],
-  learning：["C++", "TypeScript", "NodeJS", "NextJS"],
-  goal: "unknown"
+  learning：["C++", "Dart", "TypeScript", "NodeJS", "NextJS"],
 }
 ```
 
