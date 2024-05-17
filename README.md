@@ -13,7 +13,7 @@
 
 ## Info:
 ```ruby
-CONST aso =
+const aso =
 {
   pronouns: "He" | "him",
   use-tool: ["Visual Studio", "JetBrains Family"],
