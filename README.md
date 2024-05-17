@@ -13,7 +13,7 @@
 
 ## Info:
 ```js
-const aso =
+const aso-off =
 {
   pronouns: "He" | "him",
   use-tool: ["Visual Studio", "JetBrains Family"],
