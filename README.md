@@ -27,10 +27,11 @@ const info =
 <h2 align="left">Languages-Frameworks-Tools: </h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,nextjs,bootstrap&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,pycharm,figma,ps&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=windows,linux,github,git,discord&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,dart,javascript,typescript&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,vue,nodejs,react,bootstrap&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,webstorm&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,xd&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,postman,kubernetes,docker&theme=dark" /><br>
 </div>
 
 ## Contacts:
