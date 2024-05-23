@@ -39,6 +39,7 @@ const info =
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/infoaso)
 [![Steam Badge](https://img.shields.io/badge/Steam-black?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/CR_aso/)
 
+## Status:
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1144337648928952411?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1144337648928952411)
