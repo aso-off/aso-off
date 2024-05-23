@@ -37,4 +37,4 @@ const info =
 ## Contacts:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/infoaso)
-[![Steam Badge](https://img.shields.io/badge/Steam-black?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/CR_aso/)
+[![Steam Badge](https://img.shields.io/badge/Steam-black?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/aso_off/)
