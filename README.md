@@ -18,9 +18,9 @@ const info =
   pronouns: "He" | "him",
   use-tool: ["Visual Studio", "JetBrains Family"],
   backend: ["Java", "Python"],
-  frontend: ["HTML", "CSS", "JavaScript", "React", "Vue"],
+  frontend: ["HTML", "CSS", "Sass", "JavaScript", "React", "Vue"],
   database: ["MySQL"],
-  learning：["C++", "Dart", "TypeScript", "NodeJS", "NextJS"]
+  learning：["C++", "Dart", "TypeScript", "NodeJS"]
 }
 ```
 
