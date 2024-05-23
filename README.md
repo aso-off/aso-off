@@ -28,8 +28,8 @@ const info =
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,dart,javascript,typescript&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,vue,nodejs,react,bootstrap&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,webstorm&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,react,bootstrap&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,xd&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=windows,linux,postman,git,kubernetes,docker&theme=dark" /><br>
 </div>
