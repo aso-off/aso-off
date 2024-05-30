@@ -289,7 +289,7 @@
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
-                            <div class="label" title="MySQL, Vue.js, GitHub API, Front end, JSON, Terminal, TypeScript, Windows, macOS, xml, Next">and 11 more...</div>
+                            <div class="label" title="MySQL, Vue.js, GitHub API, Front end, JSON, Terminal, TypeScript, windows, macOS, xml, Next">and 11 more...</div>
                         </div>
                     </section>
                 </div>
@@ -695,7 +695,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.16m out of 202m repositories</span>
+                                    <span class="gh">ranked 3.16m out of 209m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
