@@ -276,9 +276,11 @@
                             <div class="label" title="Python is a dynamically typed programming language.">python</div>
                             <div class="label" title="JavaScript (JS) is a lightweight interpreted programming language with first-class functions.">javascript</div>
                             <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
+                            <div class="label" title="Android is an operating system built by Google designed for mobile devices.">android</div>
                             <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
                             <div class="label" title="Linux is an open source kernel.">linux</div>
                             <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
+                            <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
                             <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
                             <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
@@ -286,10 +288,8 @@
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
-                            <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
-                            <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
-                            <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
-                            <div class="label" title="MySQL, vue, GitHub API, Front end, JSON, Terminal, TypeScript, windows, macOS, xml, Next">and 11 more...</div>
+                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
+                            <div class="label" title="Node.js, SQL, C#, Google, MySQL, Go, vue, GitHub API, Front end, Bash, JSON, .NET, Terminal, iOS, TypeScript, Unity, Kubernetes, Rust, HTTP, Security, windows, macOS, Framework, Kotlin, Unreal Engine, Swift, Telegram, Markdown, vim, Minecraft, Ruby, xml, Sass, Next">and 34 more...</div>
                         </div>
                     </section>
                 </div>
@@ -614,7 +614,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.93m out of 217m repositories</span>
+                                    <span class="gh">ranked 1.93m out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
