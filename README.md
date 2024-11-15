@@ -19,8 +19,8 @@ const info =
   use-tool: ["Visual Studio Family", "JetBrains Family", "Adobe Family", "Figma"],
   backend:  ["Java", "Python"],
   frontend: ["HTML", "CSS", "JavaScript", "React", "Vue"],
-  database: ["MySQL"],
-  learning：["C", "Dart", "TypeScript", "NodeJS"]
+  database: ["MySQL", "SQLite"],
+  learning：["C/C++", "Dart", "Bash"]
 }
 ```
 
