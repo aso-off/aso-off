@@ -220,7 +220,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="173.87367104440276" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="173.87367104440276" y="0" width="102.2874296435272" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="173.87367104440276" y="0" width="102.2874296435272" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="276.16110068792995" y="0" width="85.48692933083177" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="361.64803001876174" y="0" width="98.35196998123827" height="8" fill="#ededed"/>
                 </svg>
@@ -253,7 +253,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
@@ -626,7 +626,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.97m out of 230m repositories</span>
+                                    <span class="gh">ranked 1.97m out of 220m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
