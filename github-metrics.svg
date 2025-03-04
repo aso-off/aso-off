@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.4021198573366" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="205.4021198573366" y="0" width="159.60315466921185" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="365.0052745265484" y="0" width="63.845883357612905" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.85115788416135" y="0" width="31.14884211583865" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="162.595037378718" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="162.595037378718" y="0" width="150.15667249880704" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="312.75170987752506" y="0" width="122.5910609193574" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="435.3427707968824" y="0" width="24.657229203117545" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,22 +234,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>44.65%</div>
+                                <div>35.35%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Python
-                            </div>
-                            <small>
-                                <div>13.88%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -258,7 +245,20 @@
                                 HTML
                             </div>
                             <small>
-                                <div>34.7%</div>
+                                <div>26.65%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>32.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +269,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>6.77%</div>
+                                <div>5.36%</div>
                             </small>
                         </div>
                     </section>
@@ -626,7 +626,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.04m out of 229m repositories</span>
+                                    <span class="gh">ranked 2.04m out of 235m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
