@@ -31,11 +31,11 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.13320840637533" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="301.13320840637533" y="0" width="82.39013480021761" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="383.5233432065929" y="0" width="62.11932539442664" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.6426686010196" y="0" width="14.357331398980435" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.78488339526115" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="312.78488339526115" y="0" width="76.34744291129077" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="389.13232630655193" y="0" width="57.563343727243875" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="446.6956700337958" y="0" width="13.30432996620423" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>65.46%</div>
+                                <div>68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -245,7 +245,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>13.5%</div>
+                                <div>12.51%</div>
                             </small>
                         </div>
                     </section>
@@ -258,7 +258,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>17.91%</div>
+                                <div>16.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +269,7 @@
                                 Other
                             </div>
                             <small>
-                                <div>3.12%</div>
+                                <div>2.89%</div>
                             </small>
                         </div>
                     </section>
@@ -301,7 +301,7 @@
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
-                            <div class="label" title="Node.js, SQL, C#, Google, MySQL, Go, vue, GitHub API, Front end, Bash, JSON, .NET, Terminal, TypeScript, iOS, Unity, Rust, Kubernetes, HTTP, Security, macOS, windows, Framework, Kotlin, unreal-engine, Swift, Telegram, Markdown, Minecraft, vim, Ruby, xml, Sass, Next">and 34 more...</div>
+                            <div class="label" title="Node.js, SQL, C#, Google, MySQL, Go, vue, GitHub API, Front end, Bash, JSON, .NET, Terminal, TypeScript, iOS, Unity, Rust, Kubernetes, HTTP, Security, macOS, windows, Framework, Kotlin, unreal-engine, Swift, Telegram, Markdown, Minecraft, vim, Ruby, Sass, xml, Next">and 34 more...</div>
                         </div>
                     </section>
                 </div>
@@ -626,7 +626,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.04m out of 230m repositories</span>
+                                    <span class="gh">ranked 2.04m out of 239m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
