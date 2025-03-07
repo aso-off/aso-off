@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.4574742460158" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="342.4574742460158" y="0" width="60.958897982915154" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="403.416372228931" y="0" width="45.960910595286016" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.37728282421693" y="0" width="10.622717175783055" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.45982990089266" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="346.45982990089266" y="0" width="57.48140858930203" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="403.9412384901947" y="0" width="43.339003303577705" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.2802417937724" y="0" width="12.719758206227596" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>74.45%</div>
+                                <div>75.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -245,7 +245,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>9.99%</div>
+                                <div>9.42%</div>
                             </small>
                         </div>
                     </section>
@@ -258,7 +258,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>13.25%</div>
+                                <div>12.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +269,7 @@
                                 Other
                             </div>
                             <small>
-                                <div>2.31%</div>
+                                <div>2.77%</div>
                             </small>
                         </div>
                     </section>
@@ -626,7 +626,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.04m out of 230m repositories</span>
+                                    <span class="gh">ranked 2.04m out of 238m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
