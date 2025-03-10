@@ -17,10 +17,10 @@ const info =
 {
   pronouns: "He" | "him",
   use-tool: ["Visual Studio Family", "JetBrains Family", "Adobe Family", "Figma"],
-  backend:  ["Java", "Python"],
+  backend:  ["Java", "Python", "Bash"],
   frontend: ["HTML", "CSS", "JavaScript", "React", "Vue"],
-  database: ["MySQL", "SQLite"],
-  learning：["C/C++", "Dart", "Bash"]
+  database: ["MySQL", "SQLite", "Supabase(PostgreSQL)"],
+  learning：["C/C++", "Dart"]
 }
 ```
 
