@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.6614323566085" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="420.6614323566085" y="0" width="19.91573799875312" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="440.5771703553616" y="0" width="15.015780860349128" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.59295121571074" y="0" width="4.407048784289277" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.40468356549576" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="432.40468356549576" y="0" width="13.970541507364622" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="446.37522507286036" y="0" width="10.533307366673158" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.90853243953353" y="0" width="3.091467560466443" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>91.45%</div>
+                                <div>94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -245,7 +245,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>3.26%</div>
+                                <div>2.29%</div>
                             </small>
                         </div>
                     </section>
@@ -258,7 +258,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>4.33%</div>
+                                <div>3.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +269,7 @@
                                 Other
                             </div>
                             <small>
-                                <div>0.96%</div>
+                                <div>0.67%</div>
                             </small>
                         </div>
                     </section>
@@ -362,7 +362,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.01676933607119 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.22895277207392 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -626,7 +626,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.05m out of 237m repositories</span>
+                                    <span class="gh">ranked 2.05m out of 230m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
