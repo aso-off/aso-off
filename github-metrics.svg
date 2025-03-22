@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    2 Releases
+                                    3 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.92498642228037" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.92498642228037" y="0" width="15.52964500434867" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="444.454631426629" y="0" width="11.708817731932138" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.1634491585612" y="0" width="3.8365508414388203" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.2453074511987" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="435.2453074511987" y="0" width="12.371083491667775" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="447.6163909428665" y="0" width="9.327371083491666" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.9437620263581" y="0" width="3.0562379736418537" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>93.24%</div>
+                                <div>94.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -245,7 +245,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>2.55%</div>
+                                <div>2.03%</div>
                             </small>
                         </div>
                     </section>
@@ -258,7 +258,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>3.38%</div>
+                                <div>2.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +269,7 @@
                                 Other
                             </div>
                             <small>
-                                <div>0.83%</div>
+                                <div>0.66%</div>
                             </small>
                         </div>
                     </section>
@@ -626,7 +626,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.05m out of 236m repositories</span>
+                                    <span class="gh">ranked 2.05m out of 233m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
