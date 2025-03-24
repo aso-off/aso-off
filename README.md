@@ -19,7 +19,7 @@ const info =
   use-tool: ["Visual Studio Family", "JetBrains Family", "Adobe Family", "Figma"],
   backend:  ["Java", "Python", "Bash", "C"],
   frontend: ["HTML", "CSS", "JavaScript", "Vue"],
-  database: ["MongoDB", "SQLite", "Supabase(PostgreSQL)"],
+  database: ["MongoDB", "SQLite", "Supabase"],
   learning：["Dart"]
 }
 ```
