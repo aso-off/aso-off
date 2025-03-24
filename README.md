@@ -31,7 +31,7 @@ const info =
   <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,bootstrap&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,xd&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=windows,linux,postman,git,raspberrypi,docker&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,postman,git,docker&theme=dark" /><br>
 </div>
 
 ## Contacts:
