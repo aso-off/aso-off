@@ -17,21 +17,21 @@ const info =
 {
   pronouns: "He" | "him",
   use-tool: ["Visual Studio Family", "JetBrains Family", "Adobe Family", "Figma"],
-  backend:  ["Java", "Python", "Bash"],
-  frontend: ["HTML", "CSS", "JavaScript", "React", "Vue"],
+  backend:  ["Java", "Python", "Bash", "C"],
+  frontend: ["HTML", "CSS", "JavaScript", "Vue"],
   database: ["MySQL", "SQLite", "Supabase(PostgreSQL)"],
-  learning：["C/C++", "Dart"]
+  learning：["Dart"]
 }
 ```
 
 <h2 align="left">Languages-Frameworks-Tools: </h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,react,bootstrap&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,bootstrap&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,xd&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=windows,linux,postman,git,kubernetes,docker&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=windows,linux,postman,git,raspberrypi,docker&theme=dark" /><br>
 </div>
 
 ## Contacts:
