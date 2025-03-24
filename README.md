@@ -27,7 +27,7 @@ const info =
 <h2 align="left">Languages-Frameworks-Tools: </h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,supabase,mongodb,c,javascript&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,bootstrap&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,xd&theme=dark" /><br>
