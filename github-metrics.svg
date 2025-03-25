@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.56185400656153" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="273.56185400656153" y="0" width="93.99151245087904" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="367.55336645744063" y="0" width="78.69594106002896" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="446.24930751746956" y="0" width="13.750692482530456" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.542868386442" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="273.542868386442" y="0" width="94.00108392103256" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="367.54395230747457" y="0" width="78.7039549309777" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="446.2479072384523" y="0" width="13.752092761547729" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -258,7 +258,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>20.43%</div>
+                                <div>20.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -626,7 +626,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.05m out of 222m repositories</span>
+                                    <span class="gh">ranked 2.05m out of 237m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
