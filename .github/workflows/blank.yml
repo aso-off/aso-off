@@ -49,7 +49,7 @@ jobs:
           plugin_topics_limit: 16
           plugin_topics_mode: starred
           plugin_topics_sort: stars
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_limit: 12
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
