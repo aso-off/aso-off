@@ -285,23 +285,23 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="">python</div>
-                            <div class="label" title="">javascript</div>
-                            <div class="label" title="">java</div>
-                            <div class="label" title="">android</div>
-                            <div class="label" title="">cpp</div>
-                            <div class="label" title="">linux</div>
-                            <div class="label" title="">c</div>
-                            <div class="label" title="">html</div>
-                            <div class="label" title="">algorithm</div>
-                            <div class="label" title="">css</div>
-                            <div class="label" title="">api</div>
-                            <div class="label" title="">react</div>
-                            <div class="label" title="">database</div>
-                            <div class="label" title="">bootstrap</div>
-                            <div class="label" title="">git</div>
-                            <div class="label" title="">docker</div>
-                            <div class="label" title="nodejs, sql, csharp, google, mysql, go, github-api, vue, frontend, bash, json, terminal, dotnet, typescript, ios, rust, kubernetes, unity, http, security, macos, windows, framework, kotlin, unreal-engine, telegram, swift, markdown, minecraft, vim, ruby, sass, xml, nextjs">and 34 more...</div>
+                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
+                            <div class="label" title="JavaScript (JS) is a lightweight interpreted programming language with first-class functions.">javascript</div>
+                            <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
+                            <div class="label" title="Android is an operating system built by Google designed for mobile devices.">android</div>
+                            <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
+                            <div class="label" title="Linux is an open source kernel.">linux</div>
+                            <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
+                            <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
+                            <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
+                            <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
+                            <div class="label" title="An API (Application Programming Interface) is a collection of protocols and subroutines for building software.">api</div>
+                            <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
+                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
+                            <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
+                            <div class="label" title="Git is the most widely used version control system.">git</div>
+                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
+                            <div class="label" title="Node.js, SQL, C#, Google, MySQL, Go, GitHub API, Vue.js, Front end, Bash, JSON, Terminal, .NET, TypeScript, iOS, Rust, Kubernetes, Unity, HTTP, Security, macOS, Windows, Framework, Kotlin, Unreal Engine, Telegram, Swift, Markdown, Minecraft, Vim, Ruby, Sass, XML, Next">and 34 more...</div>
                         </div>
                     </section>
                 </div>
