@@ -299,8 +299,8 @@
                             <div class="label" title="An API (Application Programming Interface) is a collection of protocols and subroutines for building software.">api</div>
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
-                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
+                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Docker, SQL, C#, Google, MySQL, Go, GitHub API, Vue.js, Front end, Bash, JSON, TypeScript, Terminal, .NET, iOS, Rust, Kubernetes, Unity, HTTP, Security, macOS, Windows, Framework, Kotlin, Unreal Engine, Telegram, Swift, Markdown, Minecraft, Vim, Ruby, Sass, XML, Next">and 34 more...</div>
                         </div>
                     </section>
