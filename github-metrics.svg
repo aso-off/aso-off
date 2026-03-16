@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -301,7 +301,7 @@
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
-                            <div class="label" title="Docker, SQL, C#, Google, MySQL, Go, Front end, GitHub API, Vue.js, Bash, JSON, TypeScript, Terminal, .NET, iOS, Rust, Kubernetes, Unity, HTTP, Security, macOS, Windows, Framework, Kotlin, Unreal Engine, Telegram, Swift, Markdown, Minecraft, Vim, Ruby, Sass, XML, Next">and 34 more...</div>
+                            <div class="label" title="Docker, SQL, C#, Google, MySQL, Go, Front end, GitHub API, Vue.js, Bash, TypeScript, JSON, Terminal, .NET, iOS, Rust, Kubernetes, Unity, HTTP, Security, macOS, Windows, Framework, Kotlin, Unreal Engine, Telegram, Swift, Markdown, Minecraft, Vim, Ruby, Sass, XML, Next">and 34 more...</div>
                         </div>
                     </section>
                 </div>
