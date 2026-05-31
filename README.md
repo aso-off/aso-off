@@ -31,7 +31,7 @@ const info =
   <img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,nodejs&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,sqlite,redis&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,neovim,androidstudio&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,neovim&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=figma,obsidian,grafana,ai,ae,ps,xd,arduino,postman,prometheus&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=windows,powershell,linux,bash,raspberrypi,cloudflare,githubactions,docker,git&theme=dark" /><br>
 </div>
