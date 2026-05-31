@@ -16,7 +16,8 @@
 const info =
 {
   pronouns: "He" | "him",
-  use-tool: ["Visual Studio Family", "JetBrains Family", "Adobe Family", "Figma", "Postman", "Docker"],
+  use-tool: ["Visual Studio Family", "JetBrains Family", "Adobe Family",
+             "Figma", "Postman", "Grafana", "Docker", "Github Actions"],
   backend:  ["Java", "Python", "Bash", "C"],
   frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "Vue"],
   database: ["MongoDB", "SQLite", "PostgreSQL", "Supabase"],
