@@ -16,11 +16,11 @@
 const info =
 {
   pronouns: "He" | "him",
-  use-tool: ["Visual Studio Family", "JetBrains Family", "Adobe Family", "Figma"],
+  use-tool: ["Visual Studio Family", "JetBrains Family", "Adobe Family", "Figma", "Postman", "Docker"],
   backend:  ["Java", "Python", "Bash", "C"],
-  frontend: ["HTML", "CSS", "JavaScript", "Vue"],
-  database: ["MongoDB", "SQLite", "Supabase"],
-  learning：["Dart"]
+  frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "Vue"],
+  database: ["MongoDB", "SQLite", "PostgreSQL", "Supabase"],
+  learning：["Dart", "Redis"]
 }
 ```
 
