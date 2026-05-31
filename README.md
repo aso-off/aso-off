@@ -18,7 +18,7 @@ const info =
   pronouns: "He" | "him",
   use-tool: ["Visual Studio Family", "JetBrains Family", "Adobe Family",
              "Figma", "Postman", "Grafana", "Docker", "Github Actions"],
-  backend:  ["Java", "Python", "Bash", "C"],
+  backend:  ["Java", "Python", "C"],
   frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "Vue"],
   database: ["MongoDB", "SQLite", "PostgreSQL", "Supabase"],
   learning：["Dart", "Redis"]
@@ -28,11 +28,12 @@ const info =
 <h2 align="left">Languages-Frameworks-Tools: </h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,supabase,mongodb,c,javascript&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,bootstrap&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,xd&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,postman,git,docker&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,nodejs&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,sqlite,redis&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,neovim,androidstudio&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,obsidian,grafana,ai,ae,ps,xd,arduino,postman,prometheus&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=windows,powershell,linux,bash,raspberrypi,cloudflare,githubactions,docker,git&theme=dark" /><br>
 </div>
 
 ## Contacts:
