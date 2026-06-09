@@ -30,12 +30,12 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.54775599860506" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="296.54775599860506" y="0" width="59.53075959649228" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="356.0785155950974" y="0" width="47.17417006183603" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="403.2526856569334" y="0" width="56.74731434306662" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.7924926219522" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="296.7924926219522" y="0" width="59.606057326041764" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="356.39854994799396" y="0" width="47.20010233658791" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="403.5986522845819" y="0" width="56.40134771541812" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>64.47%</div>
+                                <div>64.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -258,7 +258,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>12.94%</div>
+                                <div>12.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +269,7 @@
                                 Other
                             </div>
                             <small>
-                                <div>12.34%</div>
+                                <div>12.26%</div>
                             </small>
                         </div>
                     </section>
