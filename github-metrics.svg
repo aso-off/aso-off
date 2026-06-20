@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -301,7 +301,7 @@
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
-                            <div class="label" title="Docker, SQL, C#, Google, MySQL, Go, Front end, GitHub API, Vue.js, Bash, TypeScript, JSON, Terminal, .NET, iOS, Rust, Kubernetes, Unity, HTTP, Security, macOS, Windows, Framework, Kotlin, Unreal Engine, Telegram, Swift, Markdown, Minecraft, Vim, Ruby, Sass, XML, Next">and 34 more...</div>
+                            <div class="label" title="Docker, SQL, C#, Google, MySQL, Go, Front end, GitHub API, Vue.js, TypeScript, Bash, JSON, Terminal, .NET, iOS, Rust, Kubernetes, Unity, HTTP, Security, macOS, Windows, Framework, Kotlin, Unreal Engine, Telegram, Swift, Markdown, Minecraft, Vim, Ruby, Sass, XML, Next">and 34 more...</div>
                         </div>
                     </section>
                 </div>
